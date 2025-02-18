@@ -1,6 +1,6 @@
-# Learning Logs
+# Learning Log
 
-**Learning Logs** é uma aplicação web onde você pode registrar tópicos de aprendizado e adicionar entradas relacionadas a esses tópicos. O projeto permite que você:
+**Learning Log** é uma aplicação web onde você pode registrar tópicos de aprendizado e adicionar entradas relacionadas a esses tópicos. O projeto permite que você:
 
 - Adicione novos tópicos.
 - Crie, edite ou apague entradas relacionadas aos tópicos.
