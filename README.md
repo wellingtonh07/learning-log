@@ -2,7 +2,7 @@
 
 **Learning Log** é uma aplicação web onde você pode registrar tópicos de aprendizado e adicionar entradas relacionadas a esses tópicos. O projeto permite que você:
 
-- Adicione novos tópicos.
+- Adicione e exclua tópicos.
 - Crie, edite ou apague entradas relacionadas aos tópicos.
 - Realize login, registre-se e gerencie sua conta.
 
@@ -21,7 +21,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 1. **Clone este repositório para sua máquina local**:
    ```bash
-   git clone https://github.com/wellingtonh07/learning-logs.git
+   git clone https://github.com/wellingtonh07/learning-log.git
 
 2. **Navegue até o diretório do Projeto**:
    ```bash
